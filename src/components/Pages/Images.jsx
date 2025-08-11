@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Play, X } from "lucide-react";
-import About from "../../assets/About.jpg"; // Right side image
+import About from "../../assets/about.jpg"; // Right side image
 
 const VideoThumb =
   "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80";
